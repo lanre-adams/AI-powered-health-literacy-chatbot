@@ -1,0 +1,8 @@
+
+fastapi
+openai
+transformers
+torch
+faiss-cpu
+shap
+uvicorn
